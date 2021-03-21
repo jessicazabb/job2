@@ -1,0 +1,75 @@
+#style.css
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+html,body{
+	height: 100%;
+	text-align: center;
+
+}
+
+
+.menu1{
+	font-size: 20px;
+
+}
+
+.menu2{
+	font-size: 20px;
+}
+
+.menu3 p{
+	font-size: 20px;
+}
+
+.menu4 p{
+	font-size: 14px;
+}
+
+
+.menu1 button{
+	display: block;
+	margin-top: 10px;
+	width: 20%;
+	height: 50px;
+	background-color: green;
+	font-size: 20px;
+	border-radius: 10px;
+	color: white;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.menu4 h1{
+	height: 60px;
+	width: 100%;
+	font-size: 30px;
+	line-height: 50px;
+	color: white;
+	background-color: #001a29;
+	text-align: center; 
+	text-decoration: none;
+	display: inline-block;
+}
+
+
+
+.campus1 h3{
+	height: 60px;
+	width: 96%;
+	font-size: 22px;
+	line-height: 50px;
+	color: white;
+	background-color: #0f3c08;
+	text-align: center; 
+	text-decoration: none;
+	display: inline-block;
+	margin: 0;
+	
+
+}
+	
+
